@@ -1,0 +1,11 @@
+header{
+    background-color: rgb(48, 95, 162);
+    display: flex;
+    padding: 30px;
+    position: fixed;
+    width: 100%;
+}
+
+header img{
+    width: 150px
+}

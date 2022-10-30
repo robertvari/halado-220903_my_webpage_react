@@ -1,0 +1,16 @@
+nav {
+    display: flex;
+    align-items: center;
+}
+
+.nav-link{
+    color: rgba(255, 255, 255, 0.547);
+    font-size: 40px;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.nav-link.active{
+    color: white;
+    text-decoration: underline;
+}

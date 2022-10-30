@@ -1,0 +1,15 @@
+@import "Header.css";
+@import "Footer.css";
+@import "Home.css";
+@import "Navbar.css";
+
+
+.content-container{
+    padding-top: 180px;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+}
