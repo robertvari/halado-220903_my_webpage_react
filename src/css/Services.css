@@ -1,0 +1,20 @@
+.service-card{
+    display: flex;
+    margin-bottom: 50px;
+    border: 1px solid rgba(0, 0, 0, 0.115);
+    padding: 30px;
+}
+
+.service-card img{
+    width: 300px;
+    height: 300px;
+    border-radius: 30px;
+    margin-right: 30px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.card-content h1{
+    font-size: 60px;
+    font-weight: 100;
+}

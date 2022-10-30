@@ -2,6 +2,7 @@
 @import "Footer.css";
 @import "Home.css";
 @import "Navbar.css";
+@import "Services.css";
 
 .App{
     display: flex;
