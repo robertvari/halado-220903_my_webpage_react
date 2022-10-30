@@ -1,0 +1,16 @@
+.about-container{
+    display: flex;
+}
+
+.about-container img{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 30px;
+    margin-right: 50px;
+}
+
+.about-container p{
+    margin-bottom: 30px;
+}

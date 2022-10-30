@@ -3,6 +3,7 @@
 @import "Home.css";
 @import "Navbar.css";
 @import "Services.css";
+@import "About.css";
 
 .App{
     display: flex;
