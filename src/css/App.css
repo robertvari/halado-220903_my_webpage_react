@@ -3,6 +3,12 @@
 @import "Home.css";
 @import "Navbar.css";
 
+.App{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+}
 
 .content-container{
     padding-top: 180px;
