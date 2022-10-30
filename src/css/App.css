@@ -4,6 +4,7 @@
 @import "Navbar.css";
 @import "Services.css";
 @import "About.css";
+@import "Contact.css";
 
 .App{
     display: flex;
@@ -20,4 +21,24 @@
 
 img{
     width: 100%;
+}
+
+input, textarea{
+    font: inherit;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+textarea{
+    resize: vertical
+}
+
+button{
+    cursor: pointer;
+    font: inherit;
+    padding: 10px;
+    font-weight: bold;
+    background-color: rgb(48, 95, 162);
+    color: white;
+    border-radius: 10px;
 }
